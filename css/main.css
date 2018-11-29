@@ -448,7 +448,7 @@ input, textarea  {
 #productImages 
 {
 	margin-top: 40px;
-	border-bottom: solid 1px #DDD;
+	border-bottom: solid 9.2px #1d4036;
 	padding-bottom: 40px;
 	display: flex;
 	flex-direction: row;
