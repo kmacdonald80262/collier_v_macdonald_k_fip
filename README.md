@@ -6,15 +6,15 @@ Covfefe is the title of our sign language cafe. This website explores our story,
 
 Prerequisites: All you need is an internet browser, but our site works best on [Google Chrome](https://www.google.com/chrome/)
 
-###Instlling
+###Installing
 
 $ git init
 
-# Clone this repository
+$ Clone this repository
 
 $ git clone https://github.com/kmacdonald80262/collier_v_macdonald_k_fip.git
 
-# Go into the repository
+$ Go into the repository
 
 $ cd collier_v_macdonald_k_fip
 
