@@ -8,15 +8,15 @@ Prerequisites: All you need is an internet browser, but our site works best on [
 
 ### Installing
 
-$ git init
+- git init
 
-$ Clone this repository
+- Clone this repository
 
-$ git clone https://github.com/kmacdonald80262/collier_v_macdonald_k_fip.git
+- git clone https://github.com/kmacdonald80262/collier_v_macdonald_k_fip.git
 
-$ Go into the repository
+- Go into the repository
 
-$ cd collier_v_macdonald_k_fip
+- cd collier_v_macdonald_k_fip
 
 Then you can see our site!
 
